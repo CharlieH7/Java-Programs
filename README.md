@@ -1,3 +1,3 @@
-Some simple Java program I wrote while watching java tutorial videos on Youtube 
+Some simple Java program I wrote while watching Java tutorial videos on Youtube 
 
 Channel: AlexLee
