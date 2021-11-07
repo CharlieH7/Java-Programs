@@ -10,7 +10,6 @@ public class MagicBall {
 		
 		Random rand = new Random();
 		int r = rand.nextInt(7);
-		System.out.println(r);
 		
 		if(r == 0) {
 			System.out.println ("As I see it, yes.");
